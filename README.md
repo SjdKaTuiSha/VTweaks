@@ -37,7 +37,7 @@ The crosshair is designed to work in both FSO and FSE, giving players flexibilit
 
 ## 📸 Screenshots
 
-Application screenshots and in-game previews will be added here.
+Soon ...
 
 <!-- Add your screenshots to an assets folder and uncomment these lines. -->
 
